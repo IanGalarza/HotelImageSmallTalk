@@ -1,0 +1,1228 @@
+18:48:09, martes, 15 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('Habitacion class does not understand #categoriesForMethods')
+
+Habitacion class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+Compiler class>>evaluate:for:evaluationPools:logged:ifFail:
+Compiler class>>evaluate:for:evaluationPools:logged:
+Compiler class>>evaluate:for:logged:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+19:03:14, sábado, 19 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('Habitacion class does not understand #categoriesForMethods')
+
+Habitacion class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+Compiler class>>evaluate:for:evaluationPools:logged:ifFail:
+Compiler class>>evaluate:for:evaluationPools:logged:
+Compiler class>>evaluate:for:logged:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+19:03:28, sábado, 19 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('Habitacion class does not understand #categoriesForMethods')
+
+Habitacion class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+Compiler class>>evaluate:for:evaluationPools:logged:ifFail:
+Compiler class>>evaluate:for:evaluationPools:logged:
+Compiler class>>evaluate:for:logged:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+19:03:46, sábado, 19 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('Habitacion class does not understand #categoriesForMethods')
+
+Habitacion class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+Compiler class>>evaluate:for:evaluationPools:logged:ifFail:
+Compiler class>>evaluate:for:evaluationPools:logged:
+Compiler class>>evaluate:for:logged:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+19:03:51, sábado, 19 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('DevelopmentSessionManager does not understand #fileInFrom:')
+
+DevelopmentSessionManager(Object)>>doesNotUnderstand:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+Symbol>>forwardTo:
+----------------------------------------------------------------------------------------------------
+
+19:16:33, sábado, 19 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('Hotel does not understand #nombre:')
+
+Hotel(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+----------------------------------------------------------------------------------------------------
+
+18:26:57, domingo, 20 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('Hotel does not understand #initnom:dir:cal:tel:')
+
+Hotel(Object)>>doesNotUnderstand:
+Hotel class>>crearHotelnom:dir:cal:tel:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:32:40, viernes, 25 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('Hotel class does not understand #verNombre')
+
+Hotel class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:33:00, viernes, 25 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('Hotel class does not understand #verNombre')
+
+Hotel class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:55:05, viernes, 25 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('String does not understand #cr')
+
+String(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:55:10, viernes, 25 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('String does not understand #cr')
+
+String(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:58:52, viernes, 25 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+21:34:49, viernes, 25 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+22:12:43, viernes, 25 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+22:29:52, viernes, 25 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+18:09:48, sábado, 26 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+
+********************************************************************************
+************************** Dolphin Crash Dump Report ***************************
+
+18:11:44, 26/10/2024: Dolphin7.exe caused an unhandled Win32 Exception A0000204
+at 75D510A2 in module 75C10000 (C:\Windows\System32\KERNELBASE.dll)
+
+*----> Exception Parameters <----*
+00000000	
+
+*----> CPU Context for thread 0x26c4 <----*
+EAX = 00C0FA08 EBX = 010D01DC ECX = 00000001
+ESI = 010D01FC EDI = 00DDF22E EIP = 75D510A2
+ESP = 00C0FA08 EBP = 00C0FA64 EFL = 00000212
+CS = 0023 SS = 002B DS = 002B
+ES = 002B FS = 0053 GS = 002B
+
+*----> VM Context <----*
+Process: {010D0004:size 410 words, suspended frame 010D0651, priority 5, callbacks 0
+last failure 0:nil, FPE mask 3, thread 00000000}
+Active Method: SessionManager>>quit:
+IP: 00DDF22E (6)
+SP: 010D01FC
+BP: 010D01DC (103)
+ActiveFrame: {010D01E0: cf 010D01C1, sp 010D01F4, bp 010D01DC, ip 2, DevelopmentSessionManager(SessionManager)>>quit:}
+	receiver: a DevelopmentSessionManager
+	arg[0]: 0
+
+
+New Method: SessionManager>>primQuit:
+Message Selector: primQuit:
+
+*----> Stack Back Trace <----*
+{010D01E0: cf 010D01C1, sp 010D01F4, bp 010D01DC, ip 2, DevelopmentSessionManager(SessionManager)>>quit:}
+	receiver: a DevelopmentSessionManager
+	arg[0]: 0
+
+{010D01C0: cf 010D01A1, sp 010D01D4, bp 010D01BC, ip 9, DevelopmentSessionManager(SessionManager)>>onQuit:}
+	receiver: a DevelopmentSessionManager
+	arg[0]: 0
+
+{010D01A0: cf 010D0181, sp 010D01B4, bp 010D019C, ip 16, InputState>>pumpMessage:}
+	receiver: a InputState
+	arg[0]: a MSG
+
+{010D0180: cf 010D0155, sp 010D0194, bp 010D0170, ip 18, InputState>>loopWhile:}
+	receiver: a InputState
+	arg[0]: [] @ 9 in InputState>>mainLoop
+	stack temp[0]: a MSG
+	stack temp[1]: true
+	stack temp[2]: nil
+
+{010D0154: cf 010D0139, sp 010D0168, bp 010D0154, ip 15, InputState>>mainLoop}
+	receiver: a InputState
+
+{010D0138: cf 010D011D, sp 010D014C, bp 010D0138, ip 14, [] in InputState>>forkMain}
+	receiver: a InputState
+
+{010D011C: cf 010D0101, sp 010D0130, bp 010D011C, ip 13, ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry}
+	receiver: a ExceptionHandler
+
+{010D0100: cf 010D00D9, sp 010D0114, bp 010D00FC, ip 22, [] in ExceptionHandler(ExceptionHandlerAbstract)>>try:}
+	receiver: a ExceptionHandler
+
+{010D00D8: cf 010D00B9, sp 010D00EC, bp 010D00D4, ip 18, BlockClosure>>ifCurtailed:}
+	receiver: [] @ 0 in nil
+	arg[0]: [] @ 39 in ExceptionHandlerAbstract>>try:
+
+{010D00B8: cf 010D0095, sp 010D00CC, bp 010D00B0, ip 3, BlockClosure>>ensure:}
+	receiver: [] @ 17 in ExceptionHandlerAbstract>>try:
+	arg[0]: [] @ 39 in ExceptionHandlerAbstract>>try:
+	stack temp[0]: nil
+
+{010D0094: cf 010D006D, sp 010D00A8, bp 010D0088, ip 44, ExceptionHandler(ExceptionHandlerAbstract)>>try:}
+	receiver: a ExceptionHandler
+	arg[0]: [] @ 10 in InputState>>forkMain
+	stack temp[0]: nil
+	stack temp[1]: a Process('Main' base 010D0000 [ACTIVE] in SessionManager>>quit: sp=00000000 ip=1 list=10050010)
+	env temp[0]: nil
+
+{010D006C: cf 010D0049, sp 010D0080, bp 010D0064, ip 7, BlockClosure>>on:do:}
+	receiver: [] @ 10 in InputState>>forkMain
+	arg[0]: ProcessTermination
+	arg[1]: [] @ 13 in BlockClosure>>newProcess
+
+{010D0048: cf 00000001, sp 010D005C, bp 010D0048, ip 17, [] in BlockClosure>>newProcess}
+	receiver: [] @ 10 in InputState>>forkMain
+
+<Bottom of stack>
+
+*----> Stack <----*
+[010D01FC: 111]-->0
+[010D01F8: 110]-->a DevelopmentSessionManager
+[010D01F4: 109]-->8814830
+[010D01F0: 108]-->8814842
+[010D01EC: 107]-->1
+[010D01E8: 106]-->8814816
+[010D01E4: 105]-->0
+[010D01E0: 104]-->SessionManager>>quit:
+[010D01DC: 103]-->0
+[010D01D8: 102]-->a DevelopmentSessionManager
+[010D01D4: 101]-->8814814
+[010D01D0: 100]-->8814826
+[010D01CC: 99]-->8
+[010D01C8: 98]-->8814800
+[010D01C4: 97]-->0
+[010D01C0: 96]-->SessionManager>>onQuit:
+[010D01BC: 95]-->0
+[010D01B8: 94]-->a DevelopmentSessionManager
+[010D01B4: 93]-->8814798
+[010D01B0: 92]-->8814810
+[010D01AC: 91]-->15
+[010D01A8: 90]-->8814784
+[010D01A4: 89]-->0
+[010D01A0: 88]-->InputState>>pumpMessage:
+[010D019C: 87]-->a MSG
+[010D0198: 86]-->a InputState
+[010D0194: 85]-->8814776
+[010D0190: 84]-->8814794
+[010D018C: 83]-->17
+[010D0188: 82]-->8814762
+[010D0184: 81]-->0
+[010D0180: 80]-->InputState>>loopWhile:
+[010D017C: 79]-->nil
+[010D0178: 78]-->true
+[010D0174: 77]-->a MSG
+[010D0170: 76]-->[] @ 9 in InputState>>mainLoop
+[010D016C: 75]-->a InputState
+[010D0168: 74]-->8814762
+[010D0164: 73]-->8814772
+[010D0160: 72]-->14
+[010D015C: 71]-->8814748
+[010D0158: 70]-->0
+[010D0154: 69]-->InputState>>mainLoop
+[010D0150: 68]-->a InputState
+[010D014C: 67]-->8814748
+[010D0148: 66]-->8814758
+[010D0144: 65]-->13
+[010D0140: 64]-->8814734
+[010D013C: 63]-->[] @ 10 in InputState>>forkMain
+[010D0138: 62]-->InputState>>forkMain
+[010D0134: 61]-->a InputState
+[010D0130: 60]-->8814734
+[010D012C: 59]-->8814744
+[010D0128: 58]-->12
+[010D0124: 57]-->8814720
+[010D0120: 56]-->a Context for: nil frame: 10d011d
+[010D011C: 55]-->ExceptionHandlerAbstract>>markAndTry
+[010D0118: 54]-->a ExceptionHandler
+[010D0114: 53]-->8814718
+[010D0110: 52]-->8814730
+[010D010C: 51]-->21
+[010D0108: 50]-->8814700
+[010D0104: 49]-->[] @ 17 in ExceptionHandlerAbstract>>try:
+[010D0100: 48]-->ExceptionHandlerAbstract>>try:
+[010D00FC: 47]-->a Process('Main' base 010D0000 [ACTIVE] in SessionManager>>quit: sp=00000000 ip=1 list=10050010)
+[010D00F8: 46]-->a ExceptionHandler
+[010D00F4: 45]-->[] @ 9 in BlockClosure>>ifCurtailed:
+[010D00F0: 44]-->[] @ 17 in ExceptionHandlerAbstract>>try:
+[010D00EC: 43]-->8814698
+[010D00E8: 42]-->8814710
+[010D00E4: 41]-->17
+[010D00E0: 40]-->8814684
+[010D00DC: 39]-->0
+[010D00D8: 38]-->BlockClosure>>ifCurtailed:
+[010D00D4: 37]-->[] @ 39 in ExceptionHandlerAbstract>>try:
+[010D00D0: 36]-->[] @ 0 in nil
+[010D00CC: 35]-->8814680
+[010D00C8: 34]-->8814694
+[010D00C4: 33]-->2
+[010D00C0: 32]-->8814666
+[010D00BC: 31]-->0
+[010D00B8: 30]-->BlockClosure>>ensure:
+[010D00B4: 29]-->nil
+[010D00B0: 28]-->[] @ 39 in ExceptionHandlerAbstract>>try:
+[010D00AC: 27]-->[] @ 17 in ExceptionHandlerAbstract>>try:
+[010D00A8: 26]-->8814660
+[010D00A4: 25]-->8814676
+[010D00A0: 24]-->43
+[010D009C: 23]-->8814646
+[010D0098: 22]-->a Context for: nil frame: 10d0095
+[010D0094: 21]-->ExceptionHandlerAbstract>>try:
+[010D0090: 20]-->a Process('Main' base 010D0000 [ACTIVE] in SessionManager>>quit: sp=00000000 ip=1 list=10050010)
+[010D008C: 19]-->nil
+[010D0088: 18]-->[] @ 10 in InputState>>forkMain
+[010D0084: 17]-->a ExceptionHandler
+[010D0080: 16]-->8814642
+[010D007C: 15]-->8814656
+[010D0078: 14]-->6
+[010D0074: 13]-->8814628
+[010D0070: 12]-->0
+[010D006C: 11]-->BlockClosure>>on:do:
+[010D0068: 10]-->[] @ 13 in BlockClosure>>newProcess
+[010D0064: 9]-->ProcessTermination
+[010D0060: 8]-->[] @ 10 in InputState>>forkMain
+[010D005C: 7]-->8814628
+[010D0058: 6]-->8814638
+[010D0054: 5]-->16
+[010D0050: 4]-->0
+[010D004C: 3]-->[] @ 9 in BlockClosure>>newProcess
+[010D0048: 2]-->BlockClosure>>newProcess
+[010D0044: 1]-->[] @ 10 in InputState>>forkMain
+<Bottom of stack>
+
+***** End of crash report *****
+
+18:13:11, sábado, 26 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+18:31:46, sábado, 26 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+18:32:36, sábado, 26 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:04:52, sábado, 26 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+20:49:24, sábado, 26 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+21:13:45, sábado, 26 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+
+********************************************************************************
+************************** Dolphin Crash Dump Report ***************************
+
+21:54:04, 26/10/2024: Dolphin7.exe caused an unhandled Win32 Exception A0000204
+at 75D510A2 in module 75C10000 (C:\Windows\System32\KERNELBASE.dll)
+
+*----> Exception Parameters <----*
+00000000	
+
+*----> CPU Context for thread 0x3e5c <----*
+EAX = 00C0F6D8 EBX = 024C01DC ECX = 00000001
+ESI = 024C01FC EDI = 04D9F226 EIP = 75D510A2
+ESP = 00C0F6D8 EBP = 00C0F734 EFL = 00200216
+CS = 0023 SS = 002B DS = 002B
+ES = 002B FS = 0053 GS = 002B
+
+*----> VM Context <----*
+Process: {024C0004:size 208 words, suspended frame 024C032D, priority 5, callbacks 0
+last failure 0:nil, FPE mask 3, thread 00000000}
+Active Method: SessionManager>>quit:
+IP: 04D9F226 (6)
+SP: 024C01FC
+BP: 024C01DC (103)
+ActiveFrame: {024C01E0: cf 024C01C1, sp 024C01F4, bp 024C01DC, ip 2, DevelopmentSessionManager(SessionManager)>>quit:}
+	receiver: a DevelopmentSessionManager
+	arg[0]: 0
+
+
+New Method: SessionManager>>primQuit:
+Message Selector: primQuit:
+
+*----> Stack Back Trace <----*
+{024C01E0: cf 024C01C1, sp 024C01F4, bp 024C01DC, ip 2, DevelopmentSessionManager(SessionManager)>>quit:}
+	receiver: a DevelopmentSessionManager
+	arg[0]: 0
+
+{024C01C0: cf 024C01A1, sp 024C01D4, bp 024C01BC, ip 9, DevelopmentSessionManager(SessionManager)>>onQuit:}
+	receiver: a DevelopmentSessionManager
+	arg[0]: 0
+
+{024C01A0: cf 024C0181, sp 024C01B4, bp 024C019C, ip 16, InputState>>pumpMessage:}
+	receiver: a InputState
+	arg[0]: a MSG
+
+{024C0180: cf 024C0155, sp 024C0194, bp 024C0170, ip 18, InputState>>loopWhile:}
+	receiver: a InputState
+	arg[0]: [] @ 9 in InputState>>mainLoop
+	stack temp[0]: a MSG
+	stack temp[1]: true
+	stack temp[2]: nil
+
+{024C0154: cf 024C0139, sp 024C0168, bp 024C0154, ip 15, InputState>>mainLoop}
+	receiver: a InputState
+
+{024C0138: cf 024C011D, sp 024C014C, bp 024C0138, ip 14, [] in InputState>>forkMain}
+	receiver: a InputState
+
+{024C011C: cf 024C0101, sp 024C0130, bp 024C011C, ip 13, ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry}
+	receiver: a ExceptionHandler
+
+{024C0100: cf 024C00D9, sp 024C0114, bp 024C00FC, ip 22, [] in ExceptionHandler(ExceptionHandlerAbstract)>>try:}
+	receiver: a ExceptionHandler
+
+{024C00D8: cf 024C00B9, sp 024C00EC, bp 024C00D4, ip 18, BlockClosure>>ifCurtailed:}
+	receiver: [] @ 0 in nil
+	arg[0]: [] @ 39 in ExceptionHandlerAbstract>>try:
+
+{024C00B8: cf 024C0095, sp 024C00CC, bp 024C00B0, ip 3, BlockClosure>>ensure:}
+	receiver: [] @ 17 in ExceptionHandlerAbstract>>try:
+	arg[0]: [] @ 39 in ExceptionHandlerAbstract>>try:
+	stack temp[0]: nil
+
+{024C0094: cf 024C006D, sp 024C00A8, bp 024C0088, ip 44, ExceptionHandler(ExceptionHandlerAbstract)>>try:}
+	receiver: a ExceptionHandler
+	arg[0]: [] @ 10 in InputState>>forkMain
+	stack temp[0]: nil
+	stack temp[1]: a Process('Main' base 024C0000 [ACTIVE] in SessionManager>>quit: sp=00000000 ip=1 list=10050010)
+	env temp[0]: nil
+
+{024C006C: cf 024C0049, sp 024C0080, bp 024C0064, ip 7, BlockClosure>>on:do:}
+	receiver: [] @ 10 in InputState>>forkMain
+	arg[0]: ProcessTermination
+	arg[1]: [] @ 13 in BlockClosure>>newProcess
+
+{024C0048: cf 00000001, sp 024C005C, bp 024C0048, ip 17, [] in BlockClosure>>newProcess}
+	receiver: [] @ 10 in InputState>>forkMain
+
+<Bottom of stack>
+
+*----> Stack <----*
+[024C01FC: 111]-->0
+[024C01F8: 110]-->a DevelopmentSessionManager
+[024C01F4: 109]-->19267822
+[024C01F0: 108]-->19267834
+[024C01EC: 107]-->1
+[024C01E8: 106]-->19267808
+[024C01E4: 105]-->0
+[024C01E0: 104]-->SessionManager>>quit:
+[024C01DC: 103]-->0
+[024C01D8: 102]-->a DevelopmentSessionManager
+[024C01D4: 101]-->19267806
+[024C01D0: 100]-->19267818
+[024C01CC: 99]-->8
+[024C01C8: 98]-->19267792
+[024C01C4: 97]-->0
+[024C01C0: 96]-->SessionManager>>onQuit:
+[024C01BC: 95]-->0
+[024C01B8: 94]-->a DevelopmentSessionManager
+[024C01B4: 93]-->19267790
+[024C01B0: 92]-->19267802
+[024C01AC: 91]-->15
+[024C01A8: 90]-->19267776
+[024C01A4: 89]-->0
+[024C01A0: 88]-->InputState>>pumpMessage:
+[024C019C: 87]-->a MSG
+[024C0198: 86]-->a InputState
+[024C0194: 85]-->19267768
+[024C0190: 84]-->19267786
+[024C018C: 83]-->17
+[024C0188: 82]-->19267754
+[024C0184: 81]-->0
+[024C0180: 80]-->InputState>>loopWhile:
+[024C017C: 79]-->nil
+[024C0178: 78]-->true
+[024C0174: 77]-->a MSG
+[024C0170: 76]-->[] @ 9 in InputState>>mainLoop
+[024C016C: 75]-->a InputState
+[024C0168: 74]-->19267754
+[024C0164: 73]-->19267764
+[024C0160: 72]-->14
+[024C015C: 71]-->19267740
+[024C0158: 70]-->0
+[024C0154: 69]-->InputState>>mainLoop
+[024C0150: 68]-->a InputState
+[024C014C: 67]-->19267740
+[024C0148: 66]-->19267750
+[024C0144: 65]-->13
+[024C0140: 64]-->19267726
+[024C013C: 63]-->[] @ 10 in InputState>>forkMain
+[024C0138: 62]-->InputState>>forkMain
+[024C0134: 61]-->a InputState
+[024C0130: 60]-->19267726
+[024C012C: 59]-->19267736
+[024C0128: 58]-->12
+[024C0124: 57]-->19267712
+[024C0120: 56]-->a Context for: nil frame: 24c011d
+[024C011C: 55]-->ExceptionHandlerAbstract>>markAndTry
+[024C0118: 54]-->a ExceptionHandler
+[024C0114: 53]-->19267710
+[024C0110: 52]-->19267722
+[024C010C: 51]-->21
+[024C0108: 50]-->19267692
+[024C0104: 49]-->[] @ 17 in ExceptionHandlerAbstract>>try:
+[024C0100: 48]-->ExceptionHandlerAbstract>>try:
+[024C00FC: 47]-->a Process('Main' base 024C0000 [ACTIVE] in SessionManager>>quit: sp=00000000 ip=1 list=10050010)
+[024C00F8: 46]-->a ExceptionHandler
+[024C00F4: 45]-->[] @ 9 in BlockClosure>>ifCurtailed:
+[024C00F0: 44]-->[] @ 17 in ExceptionHandlerAbstract>>try:
+[024C00EC: 43]-->19267690
+[024C00E8: 42]-->19267702
+[024C00E4: 41]-->17
+[024C00E0: 40]-->19267676
+[024C00DC: 39]-->0
+[024C00D8: 38]-->BlockClosure>>ifCurtailed:
+[024C00D4: 37]-->[] @ 39 in ExceptionHandlerAbstract>>try:
+[024C00D0: 36]-->[] @ 0 in nil
+[024C00CC: 35]-->19267672
+[024C00C8: 34]-->19267686
+[024C00C4: 33]-->2
+[024C00C0: 32]-->19267658
+[024C00BC: 31]-->0
+[024C00B8: 30]-->BlockClosure>>ensure:
+[024C00B4: 29]-->nil
+[024C00B0: 28]-->[] @ 39 in ExceptionHandlerAbstract>>try:
+[024C00AC: 27]-->[] @ 17 in ExceptionHandlerAbstract>>try:
+[024C00A8: 26]-->19267652
+[024C00A4: 25]-->19267668
+[024C00A0: 24]-->43
+[024C009C: 23]-->19267638
+[024C0098: 22]-->a Context for: nil frame: 24c0095
+[024C0094: 21]-->ExceptionHandlerAbstract>>try:
+[024C0090: 20]-->a Process('Main' base 024C0000 [ACTIVE] in SessionManager>>quit: sp=00000000 ip=1 list=10050010)
+[024C008C: 19]-->nil
+[024C0088: 18]-->[] @ 10 in InputState>>forkMain
+[024C0084: 17]-->a ExceptionHandler
+[024C0080: 16]-->19267634
+[024C007C: 15]-->19267648
+[024C0078: 14]-->6
+[024C0074: 13]-->19267620
+[024C0070: 12]-->0
+[024C006C: 11]-->BlockClosure>>on:do:
+[024C0068: 10]-->[] @ 13 in BlockClosure>>newProcess
+[024C0064: 9]-->ProcessTermination
+[024C0060: 8]-->[] @ 10 in InputState>>forkMain
+[024C005C: 7]-->19267620
+[024C0058: 6]-->19267630
+[024C0054: 5]-->16
+[024C0050: 4]-->0
+[024C004C: 3]-->[] @ 9 in BlockClosure>>newProcess
+[024C0048: 2]-->BlockClosure>>newProcess
+[024C0044: 1]-->[] @ 10 in InputState>>forkMain
+<Bottom of stack>
+
+***** End of crash report *****
+
+18:18:19, domingo, 27 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+18:51:20, domingo, 27 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+18:52:10, domingo, 27 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:16:54, domingo, 27 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:19:48, domingo, 27 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+17:53:10, martes, 29 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+18:19:23, martes, 29 de octubre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+19:13:51, viernes, 1 de noviembre de 2024: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+15:14:43, miércoles, 13 de noviembre de 2024: Unhandled exception - a MessageNotUnderstood('Habitacion class does not understand #categoriesForMethods')
+
+Habitacion class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+Compiler class>>evaluate:for:evaluationPools:logged:ifFail:
+Compiler class>>evaluate:for:evaluationPools:logged:
+Compiler class>>evaluate:for:logged:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+15:15:50, miércoles, 13 de noviembre de 2024: Unhandled exception - a MessageNotUnderstood('Habitacion class does not understand #categoriesForMethods')
+
+Habitacion class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+Compiler class>>evaluate:for:evaluationPools:logged:ifFail:
+Compiler class>>evaluate:for:evaluationPools:logged:
+Compiler class>>evaluate:for:logged:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+15:16:18, miércoles, 13 de noviembre de 2024: Unhandled exception - a MessageNotUnderstood('DevelopmentSessionManager does not understand #fileInFrom:')
+
+DevelopmentSessionManager(Object)>>doesNotUnderstand:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+Symbol>>forwardTo:
+----------------------------------------------------------------------------------------------------
+
+15:18:30, miércoles, 13 de noviembre de 2024: Unhandled exception - a MessageNotUnderstood('Habitacion class does not understand #categoriesForMethods')
+
+Habitacion class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+Compiler class>>evaluate:for:evaluationPools:logged:ifFail:
+Compiler class>>evaluate:for:evaluationPools:logged:
+Compiler class>>evaluate:for:logged:
+[] in ChunkSourceFiler>>fileIn
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+ChunkSourceFiler>>fileIn
+SourceManager>>fileInFrom:
+[] in SourceManager>>fileIn:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+SourceManager>>fileIn:
+[] in RefactoringSmalltalkSystem(SmalltalkSystem)>>fileFileIn
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
